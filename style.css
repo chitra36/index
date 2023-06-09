@@ -1,0 +1,166 @@
+body{
+            
+}
+nav{
+    position: absolute;
+     width: 274px;
+      height: 80px;
+      left: 100px;
+      top: 24px;
+      display: inline;
+
+    }
+    .logo{
+        position: absolute;
+width: 170px;
+height: 72px;
+left: 120px;
+top: 6px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 72px;
+
+}
+/* svg{
+Width:71.99px;
+Height:60.87px;
+Top:18.37px;
+Left:4px;
+margin-top: 10px;
+} */
+.Rectangle{
+position: absolute;
+width: 1030px;
+height: 455px;
+left: 205px;
+top: 180px;
+
+border: 1px dashed #BEBEBE;
+border-radius: 24px;
+
+}
+.inrectangle{
+
+position: absolute;
+width: 950px;
+height: 375px;
+left: calc(50% - 950px/2);
+top: 45px;
+
+background: #FFF9F4;
+border-radius: 12px;
+}
+.d-d{
+position: absolute;
+width: 465px;
+height: 60px;
+left: 290px;
+top: 132px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+text-align: center;
+line-height: 60px;
+color: #1E1E1E;
+
+}
+a{
+position: absolute;
+width: 189px;
+height: 48px;
+left: 140px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 48px;
+text-align: center;
+color: #FC7C1C;
+}
+p{
+position: absolute;
+width: 262px;
+height: 24px;
+left: 20px;
+top: 451px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+color: #C0C0C0;
+}
+.Rectangle-2{
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1240px;
+height: 678px;
+left: 100px;
+top: 723px;
+
+border: 2px solid #BEBEBE;
+border-radius: 24px;
+
+}
+.files{
+position: absolute;
+width: 88px;
+height: 60px;
+left: 200px;
+top: 50px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 60px;
+color: #1E1E1E;
+}
+.file{
+box-sizing: border-box;
+
+position: absolute;
+width: 1030px;
+height: 160px;
+left: 100px;
+top: 100px;
+display: inline-flex;
+background: #FFFFFF;
+border: 1px solid #BEBEBE;
+border-radius: 12px;
+}
+.box{
+height: 100px;
+width: 100px;
+  margin-top:  40px;
+  margin-left: 55px;
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+leading-trim: both;
+text-edge: cap;
+
+
+color: #1E1E1E;
+}
+
+img{
+position: absolute;
+    width: 100px;
+ height: 100px;
+border-radius: 8px;
+   margin-top: -2px;
+ padding-top: 2px;
+  margin-left: 10px;
+
+}
